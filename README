@@ -1,0 +1,11 @@
+AnswerPortal is a small addon for mage which are fed up of answering to teleport request. It just automaticaly answer a premade reply.
+
+/apt prefix
+/apt message
+/apt always
+/apt ignore
+/apt nospam
+/apt reset
+/apt self
+/apt list
+/apt disable
