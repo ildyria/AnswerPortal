@@ -1,9 +1,10 @@
-## Interface: 40200
-## Title: AnswerPortal
+## Interface: 40300
 ## Author: Ildyria
+## Title: |cff1784d1Answer Portal|r
+## Notes: Answer to portal requests
 ## Version: 0.1
-## Notes: Responds to portal requests
 ## DefaultState: Enabled
 ## LoadOnDemand: 0
 ## SavedVariablesPerCharacter: ap
+
 AnswerPortal.lua
